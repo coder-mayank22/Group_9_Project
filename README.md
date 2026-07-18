@@ -332,6 +332,4 @@ jupyter notebook
 - Mr. Ritesh Prasad
 ---
 
-<p align="center">
-Built using Python, Machine Learning, Natural Language Processing and XGBoost.
-</p>
+
