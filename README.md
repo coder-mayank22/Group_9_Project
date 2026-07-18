@@ -277,25 +277,19 @@ Trust Score Generation
 ```
 Fake-Review-Detection/
 │
-├── Dataset/
-│   └── final_labeled_fake_reviews.csv
+├── dataset/
+│   ├── final_labeled_fake_reviews.csv
+│   └── ...
 │
-├── Models/
-│   ├── XGBoost.pkl
-│   ├── RandomForest.pkl
-│   └── LogisticRegression.pkl
+├── models/
+│   ├── xgboost_model.pkl
+│   ├── preprocessor.pkl
+│   └── ...
 │
-├── Notebook/
-│   └── FakeReviewDetection.ipynb
+├── fakereviewdetect_final.ipynb
 │
-├── Images/
-│
-├── README.md
-│
-└── requirements.txt
+└── README.md
 ```
-
----
 
 # Installation
 
@@ -323,19 +317,7 @@ Run the notebook
 jupyter notebook
 ```
 
----
 
-# Future Scope
-
-- Deep Learning implementation
-- Transformer-based fake review detection
-- Real-time API integration
-- Web application deployment
-- Browser Extension
-- Multi-language support
-- Explainable AI dashboards
-
----
 
 # Team
 
