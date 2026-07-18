@@ -344,24 +344,10 @@ jupyter notebook
 - Suprovo Bose
 - Milapan De
 
----
 
-# Acknowledgements
+# Project Mentor
 
-- Scikit-learn
-- XGBoost
-- Pandas
-- NumPy
-- TextBlob
-- Matplotlib
-- Google Colab
-
----
-
-# License
-
-This project was developed for academic and educational purposes.
-
+Mr. Ritesh Prasad
 ---
 
 <p align="center">
