@@ -323,12 +323,6 @@ Run the notebook
 jupyter notebook
 ```
 
-or
-
-```bash
-python app.py
-```
-
 ---
 
 # Future Scope
