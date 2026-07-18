@@ -347,7 +347,7 @@ jupyter notebook
 
 # Project Mentor
 
-Mr. Ritesh Prasad
+- Mr. Ritesh Prasad
 ---
 
 <p align="center">
